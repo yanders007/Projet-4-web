@@ -247,6 +247,20 @@ npm run lint
 
 ![Utilisateurs en base](platform-gestion-presence/db_users.png)
 
+## Diagrammes
+
+### Diagramme de Cas d'Utilisation
+
+![Diagramme de Cas d'Utilisation](docs/DiagrammeCasUtilisation.jpg)
+
+Ce diagramme presente les interactions entre les differents acteurs du systeme (Admin, Professeur, Parent, Eleve) et les cas d'utilisation principaux : authentification, gestion des presence, consultation des rapports, gestion des permissions et requetes.
+
+### Diagramme de Classes
+
+![Diagramme de Classes](DiagrammeClasse.jpg)
+
+Ce diagramme illustre l'architecture objet du projet et les relations entre les principales entites : Utilisateur, Classe, Cours, Presence, Session, Notification, Permission et Requete. Il montre les associations, heritage et dependances entre les differentes classes du systeme.
+
 ## Endpoints principaux
 
 ```text
