@@ -257,7 +257,7 @@ Ce diagramme presente les interactions entre les differents acteurs du systeme (
 
 ### Diagramme de Classes
 
-![Diagramme de Classes](DiagrammeClasse.jpg)
+![Diagramme de Classes](docs/DiagrammeClasse.jpg)
 
 Ce diagramme illustre l'architecture objet du projet et les relations entre les principales entites : Utilisateur, Classe, Cours, Presence, Session, Notification, Permission et Requete. Il montre les associations, heritage et dependances entre les differentes classes du systeme.
 
