@@ -3,7 +3,6 @@
 Application web complete pour gerer la presence des eleves en milieu scolaire. Le projet est organise en monorepo avec un frontend React, un backend Laravel et une base MySQL/MariaDB.
 
 ## Apercu
-
 La plateforme couvre les besoins principaux du sujet :
 
 - authentification par role : admin, professeur, parent et eleve ;
