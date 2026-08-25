@@ -1,5 +1,4 @@
 <?php
-
 use App\Models\Classe;
 use App\Models\Cours;
 use App\Models\Eleve;
@@ -12,7 +11,6 @@ use App\Models\User;
 use Illuminate\Contracts\Console\Kernel;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Str;
-
 require __DIR__ . '/../vendor/autoload.php';
 
 $app = require __DIR__ . '/../bootstrap/app.php';
